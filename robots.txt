@@ -1,0 +1,8 @@
+User-agent: Yandex
+Allow: /
+Disallow: /assets/
+Disallow: /admin/
+Disallow: /js/
+Disallow: /css/
+Host: https://lbgame777.xyz/3nsZZj
+Sitemap: https://lbgame777.xyz/3nsZZj/sitemap.xml
