@@ -4,5 +4,5 @@ Disallow: /assets/
 Disallow: /admin/
 Disallow: /js/
 Disallow: /css/
-Host: https://lbgame777.xyz/3nsZZj
-Sitemap: https://lbgame777.xyz/3nsZZj/sitemap.xml
+Host: https://le-bandit-rho.vercel.app/
+Sitemap: https://le-bandit-rho.vercel.app/sitemap.xml
